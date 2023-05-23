@@ -4,15 +4,6 @@
 
 This Prework Study Guide was made for Bootcamp students as part of their assignment to take notes on HTML, CSS, Git and JavaScript and document them for further reference.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-
-
 ## Installation
 
 NA
